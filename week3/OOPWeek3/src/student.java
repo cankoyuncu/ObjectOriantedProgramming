@@ -1,12 +1,13 @@
 public class student {
 
     public String name;
+
     public int id;
     public int midterm;
     public int finalExam;
 
     public student(){
-        System.out.println("hello from constructor");
+        System.out.println("Calculating the average of midterm and final grades...");
     }
 
     public student(String name, int midterm, int finalExam)
@@ -17,7 +18,6 @@ public class student {
     }
     public float getResult()
     {
-        return midterm*0.4f + finalExam*0.6f;
+        return midterm * 0.4f + finalExam * 0.6f;
     }
-
 }

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00d4dc56-d15d-47f5-bd79-5aeda8cc3aca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../week2/LabHomework1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/LabHomework1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/LabHomework1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/LabHomework1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/LabHomework1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/LabHomework1/LabHomework1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/LabHomework1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/LabHomework1/src/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/untitled1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/untitled1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/untitled1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/untitled1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/untitled1/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/OOPWeek3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/OOPWeek3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/OOPWeek3/src/employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/OOPWeek3/src/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/OOPWeek3/src/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/VideoExample/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/week3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/week3.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hk1MNRD339AuwI9T9L0JcUmm1I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00d4dc56-d15d-47f5-bd79-5aeda8cc3aca" name="Changes" comment="" />
+      <created>1668814221724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668814221724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/week2/ExampleInClass/ExampleInClass.iml" filepath="$PROJECT_DIR$/week2/ExampleInClass/ExampleInClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/HelloJava/HelloJava.iml" filepath="$PROJECT_DIR$/week1/HelloJava/HelloJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/HelloJavaSyntax/HelloJavaSyntax.iml" filepath="$PROJECT_DIR$/week2/HelloJavaSyntax/HelloJavaSyntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/LabExercise/LabExercise.iml" filepath="$PROJECT_DIR$/week2/LabExercise/LabExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/OOPWeek3/OOPWeek3.iml" filepath="$PROJECT_DIR$/week3/OOPWeek3/OOPWeek3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ObjectOriantedProgramming.iml" filepath="$PROJECT_DIR$/.idea/ObjectOriantedProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/PrepareToExam/PrepareToExam.iml" filepath="$PROJECT_DIR$/week1/PrepareToExam/PrepareToExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week6/lab-question-1/lab-question-1.iml" filepath="$PROJECT_DIR$/week6/lab-question-1/lab-question-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week6/lab-question-2/lab-question-2.iml" filepath="$PROJECT_DIR$/week6/lab-question-2/lab-question-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/week3.iml" filepath="$PROJECT_DIR$/week3/week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/week4.iml" filepath="$PROJECT_DIR$/week4/week4.iml" />
+    </modules>
+  </component>
+</project>
